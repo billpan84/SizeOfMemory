@@ -1,0 +1,14 @@
+#include <stdio.h>//vivliothiki
+
+int main(){//programma pou dinoume tris xaraktires kai mas ektiponi to megethos pou pianoun stin mnimi
+
+    float a;
+    int b;
+    char c;
+
+    printf("%d bytes\n", sizeof(a));
+    printf("%d bytes\n", sizeof(b));
+    printf("%d bytes\n", sizeof(c));
+return 0;
+
+}
